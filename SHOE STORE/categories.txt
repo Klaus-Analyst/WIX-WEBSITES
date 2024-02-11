@@ -1,0 +1,26 @@
+
+sections
+shop by category
+New arrivals
+best sellers
+trending
+Home and outing sandals 
+Casuals for Men
+Sports for men and women
+
+labels 
+new arrival
+most sold 
+
+
+Add filters
+By price range 
+By women or men
+
+By category
+by highest to lowest sellers
+
+add login (customize this one this time)
+nav bar should have drop down ths time. 
+nav bar should have (home, mens, women - and submenus, explore more)
+

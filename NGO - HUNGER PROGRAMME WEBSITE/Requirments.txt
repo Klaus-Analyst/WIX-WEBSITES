@@ -1,0 +1,8 @@
+Requirements
+	should have a donation ( on the donation, they should be able to put various options)
+	should have statistics
+	images of hungry children
+	about us 
+	contact us
+	mailing list for peope who want to join the fight
+		
